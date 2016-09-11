@@ -4,7 +4,7 @@ About assignment 1 and 2
 
 
 
-2. After googling and seeking advice from Yao Wang, I know that setting up an environment variable is about firstly writing below codes:
+2.After googling and seeking advice from Yao Wang, I know that setting up an environment variable is about firstly writing below codes:
   Vi   ~/.bashrc
   PUI2016="/home/cusp/xt483/PUI2016_xt483"
   alias pui2016="cd $PUI2016"
@@ -16,4 +16,4 @@ and then shown as the screenshot below:
 
 Actually, github is a little complex sometimes, I may upload my changes in a file yesterday, but today I could not. And I met with a problem that my HW1 folder could not be opened in the github website. At last, I googled a lot and find out I need to remove some files and create my dictionary HW1_xt483 and README.md again.  In the process, I also thanked my friend Yuan Shi who helped me google the problem. 
 
-3. Although this assignment is hard, I'm trying to figure out it.
+3.Although this assignment is hard, I'm trying to figure out it.
