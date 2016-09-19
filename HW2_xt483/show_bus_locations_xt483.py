@@ -5,7 +5,6 @@ import urllib as ulr
 import numpy as np
 
 import os
-%pylab inline
 
 
 import sys
