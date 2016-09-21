@@ -3,6 +3,8 @@ After reading the materials, I've learnt various kinds of errors, such as Syntax
   
 HW1
 From HW1, I learn how to read json file and  check out each branch. Also, I've used Json viewer to help me figure out branches. Besides, with the help of wangyao(yw2278), I learnt how to use the sys.argv function.
+
+
 HW2
 Getting some troubles about how to show the 'Onwardcall', I asked wangyao and learnt using the if function and if __name__ == 'main'. Other parts involves the same way as HW1.
 HW3
