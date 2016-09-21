@@ -7,4 +7,10 @@ From HW1, I learn how to read json file and  check out each branch. Also, I've u
 
 HW2
 Getting some troubles about how to show the 'Onwardcall', I asked wangyao and learnt using the if function and if __name__ == 'main'. Other parts involves the same way as HW1.
+
+
 HW3
+I used os.getenv and pd.read_csv and drew the scatter line.
+
+
+
