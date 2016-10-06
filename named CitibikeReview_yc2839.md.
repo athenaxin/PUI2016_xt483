@@ -1,0 +1,6 @@
+Feedback: You've stated your null hypthoesis and alternative hypothoesis prety clearly. According to your project, I can tell you are very 
+clear about what data you are looking for, i.e. the total TripDuration of both man and woman, and you made the plot. Suggestion: in this plot,
+you may get rid of the '0.8, 1.2, 1.4...' on the gender axis (since they did not make much sense in this case). Sugeestion: you may not need 
+the minutes v.s. gender plot.
+
+Then, I suggest you to use a t-test to verify your result. Since the t-test can help you much on compare the means between 2 samples.
