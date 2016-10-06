@@ -15,9 +15,12 @@ ANOVA	| 1, Surgery or not  | categorical | 1, Dietary consumption| continuous | 
 |:----------:|:----------|:------------|:-------------|:------------ |:------------------|:----:|:-------:|:-------|
 |Logistic Regression |1,n Age  2，Female Sex  3，hoe long Inpatient episode previous   4，1 outpatient visits previous 1 month    5，n outpatient visits previous 12 months  6，A+E investigation previous 3 months     7，Non-elective admission in previous year    8，when GP code of a fracture      9，osteoporosls      10，when GP/Hostpital code of fall    11，COPD(Long term condition)    12，History of stroke      13，Depression(Long term condition)     14，Mental Health(Long term condition)    15，Asthma(Long term condition)      16，History of urinary tract infection    17，Polypharmacy n unique drugs   | categorical | 1,  probability of falls of older people| continuous  | What is the odds probability of falls of older people as the values of the IVs change? | This specific variable has no significant effect on the risk of fall of older people | 0.05 | [Predicting Falls and When to Intervene in Older People: A Multilevel Logistical Regression Model and Cost Analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159365) |
 
-In this assignment, I grouped with cx495. 
+In this assignment, I grouped with Chunqng Xu (cx495). I completed the first row and he completed the second row.
+
 # Assignment 3
 
-
+Learn how to import a pyfile and do the chisquare test.
 
 # Assignment 4
+
+With the help of Xinshi Zheng(xz1845), I know how to sort the data and make the sample as the same size for Pearson's test. 
