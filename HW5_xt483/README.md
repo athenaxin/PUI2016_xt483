@@ -10,6 +10,7 @@ Followed the skeleton book to draw the plot and extract data.  Met a problem abo
 
 
 Assignment 3
+
 1. 
 H_0: People who had diets lose the fat equal or less than the people who did exercise after 3 months.
 
