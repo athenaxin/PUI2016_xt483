@@ -1,5 +1,7 @@
 For Houcheng
 
+![](2.png)
+
 CLARITY
 
 This plot has very clear label, various color and beautiful visualization.  Besides, the mu and sigma of each line is apparently displayed, same as the formula, making the audience understand what the plot is showing.
