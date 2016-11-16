@@ -1,5 +1,5 @@
 For Hongting
-
+![](1.png)
 CLARITY
 
 The picture hongting plots is very concise and beautiful. The color is suitable and may it can label the special points to display what you want to share with the clients. 
