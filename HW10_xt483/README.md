@@ -1,1 +1,1 @@
-Follow the lab instruction and slice data into summer and winter datasets. Use geopanda analysis and Moran scatterplot and local indicators of spatial auto correlation. Plot the hot and cold spots for each season. Learn a lot new geoanalysis thing.
+Follow the lab instruction and slice data into summer and winter datasets. Use geopanda analysis and Moran scatterplot and local indicators of spatial auto correlation. Plot the hot and cold spots for each season. Learn a lot new geoanalysis thing. Thanks!
