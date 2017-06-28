@@ -1,1 +1,1 @@
-This is the TWO SIGMA-data challenge notebook for MTA analysis and research.
+This is the TWO SIGMA-data challenge notebook which relates to the MTA analysis and research.
